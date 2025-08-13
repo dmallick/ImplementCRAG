@@ -1,0 +1,7 @@
+
+openai 
+chromadb 
+pandas 
+matplotlib 
+scikit-learn 
+jupyter
